@@ -11,5 +11,3 @@ This is a course in Python for Business
 1. Wonka
 2. Avatar
 3. gaa
-wi
-hg
